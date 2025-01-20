@@ -18,9 +18,9 @@ A simple lightweight program to send and fetches emails using SMTP and IMAP.
 
 1. Clone this repository
 2. Install dependencies:
-
+```
 pip install -r requirements.txt
-
+```
 ## Usage
 
 ```
