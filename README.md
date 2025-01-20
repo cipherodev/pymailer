@@ -43,7 +43,7 @@ mailer.send(
     attachments=['/path/to/file.pdf', '/path/to/file.png'],
 )
 
-email = mailer.fetch()
+email = mailer.fetch()[0]
 print(f'UID: {email["uid"]}')
 print(f'FROM: {email["from"]}')
 print(f'SUBJECT: {email["subject"]}')
