@@ -17,8 +17,11 @@ A simple lightweight program to send and fetches emails using SMTP and IMAP.
 ## Setup
 
 1. Clone this repository
-2. Enter pymailer directory
-3. Install dependencies:
+```
+git clone https://github.com/cipherodev/pymailer.git
+```
+3. Enter pymailer directory
+4. Install dependencies:
 ```
 pip install -r requirements.txt
 ```
