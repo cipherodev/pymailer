@@ -23,9 +23,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-
-from pymailer import PyMailer
 ```
+from pymailer import PyMailer
+
 mailer = PyMailer()
 mailer.send_email(
     to="recipient@domain.com",
