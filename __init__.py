@@ -1,1 +1,1 @@
-from src.pymailer import PyMailer
+from .src.pymailer import PyMailer
