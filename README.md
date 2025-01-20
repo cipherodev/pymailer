@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 
 from pymailer import PyMailer
-
+'''
 mailer = PyMailer()
 mailer.send_email(
     to="recipient@domain.com",
@@ -33,6 +33,7 @@ mailer.send_email(
     body="Hello from PyMailer!",
     attachments=["path/to/file.pdf"]
 )
+'''
 Note: As of now you can only sign in with gmail
 
 ## Security Note
