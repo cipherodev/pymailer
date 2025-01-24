@@ -53,6 +53,10 @@ print(f'ATTACHMENTS: {email["attachments"]}')
 ```
 Note: As of now you can only sign in with gmail
 
+## Tip
+For the password use your google app password. To create one go to <a href="https://myaccount.google.com/?tab=kk">Google account page</a> 
+Navigate to "apps passwords" and create a new one named "pymailer". Use the password it gives you.
+
 ## Security Note
 
 - Use App Passwords for Gmail instead of your account password
