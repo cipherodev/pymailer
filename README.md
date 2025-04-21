@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 ## Usage
 
-```
+```python
 from pymailer import PyMailer
 
 mailer = PyMailer(
